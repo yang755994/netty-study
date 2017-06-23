@@ -20,7 +20,7 @@ public class DiscoveryService {
 	private Map<String, List<String>> connectHolds = new ConcurrentHashMap<String, List<String>>();
 
 	private DiscoveryService() {
-		String ZKServers = "172.28.0.45:2181";
+		String ZKServers = "127.0.0.1:2181";
 		zkClient = new ZkClient(ZKServers, 10000, 10000, new SerializableSerializer());
 	}
 

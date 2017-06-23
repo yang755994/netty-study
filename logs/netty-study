@@ -1,0 +1,356 @@
+[INFO][2017-06-23 11:24:17,773][org.I0Itec.zkclient.ZkEventThread]Starting ZkClient event thread.
+[INFO][2017-06-23 11:24:17,783][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:host.name=7f-yangzhig.globale.com
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_51
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:java.home=C:\Program Files\Java\jdk1.8.0_51\jre
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=E:\github\netty-study\target\classes;D:\mavenlib\repository\io\netty\netty-common\4.1.9.Final\netty-common-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-buffer\4.1.9.Final\netty-buffer-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-codec\4.1.9.Final\netty-codec-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-handler\4.1.9.Final\netty-handler-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport\4.1.9.Final\netty-transport-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-resolver\4.1.9.Final\netty-resolver-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport-native-epoll\4.1.9.Final\netty-transport-native-epoll-4.1.9.Final.jar;D:\mavenlib\repository\com\alibaba\fastjson\1.2.32\fastjson-1.2.32.jar;D:\mavenlib\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar;D:\mavenlib\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\mavenlib\repository\junit\junit\3.8.1\junit-3.8.1.jar;F:\netty-learning\netty-3.7\target\classes;D:\mavenlib\repository\org\javassist\javassist\3.18.1-GA\javassist-3.18.1-GA.jar;D:\mavenlib\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\mavenlib\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\mavenlib\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\mavenlib\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;D:\mavenlib\repository\org\springframework\spring-context\4.3.0.RELEASE\spring-context-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-aop\4.3.0.RELEASE\spring-aop-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-beans\4.3.0.RELEASE\spring-beans-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-core\4.3.0.RELEASE\spring-core-4.3.0.RELEASE.jar;D:\mavenlib\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mavenlib\repository\org\springframework\spring-expression\4.3.0.RELEASE\spring-expression-4.3.0.RELEASE.jar
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;D:\gradle\gradle-3.4.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;D:\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;E:\tools\eclipse;;.
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=C:\Users\YANGZH~1\AppData\Local\Temp\
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Windows 7
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:os.version=6.1
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yangzhigang
+[INFO][2017-06-23 11:24:17,784][org.apache.zookeeper.ZooKeeper]Client environment:user.home=C:\Users\yangzhigang
+[INFO][2017-06-23 11:24:17,785][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=E:\github\netty-study
+[INFO][2017-06-23 11:24:17,785][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=10000 watcher=org.I0Itec.zkclient.ZkClient@6c49835d
+[INFO][2017-06-23 11:24:17,855][org.I0Itec.zkclient.ZkClient]Waiting for keeper state SyncConnected
+[INFO][2017-06-23 11:24:27,857][org.I0Itec.zkclient.ZkEventThread]Terminate ZkClient event thread.
+[INFO][2017-06-23 11:24:29,491][org.apache.zookeeper.ZooKeeper]Session: 0x0 closed
+[INFO][2017-06-23 11:25:05,616][org.I0Itec.zkclient.ZkEventThread]Starting ZkClient event thread.
+[INFO][2017-06-23 11:25:05,681][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2017-06-23 11:25:05,683][org.apache.zookeeper.ZooKeeper]Client environment:host.name=7f-yangzhig.globale.com
+[INFO][2017-06-23 11:25:05,684][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_51
+[INFO][2017-06-23 11:25:05,685][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2017-06-23 11:25:05,686][org.apache.zookeeper.ZooKeeper]Client environment:java.home=C:\Program Files\Java\jdk1.8.0_51\jre
+[INFO][2017-06-23 11:25:05,687][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=E:\github\netty-study\target\classes;D:\mavenlib\repository\io\netty\netty-common\4.1.9.Final\netty-common-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-buffer\4.1.9.Final\netty-buffer-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-codec\4.1.9.Final\netty-codec-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-handler\4.1.9.Final\netty-handler-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport\4.1.9.Final\netty-transport-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-resolver\4.1.9.Final\netty-resolver-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport-native-epoll\4.1.9.Final\netty-transport-native-epoll-4.1.9.Final.jar;D:\mavenlib\repository\com\alibaba\fastjson\1.2.32\fastjson-1.2.32.jar;D:\mavenlib\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar;D:\mavenlib\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\mavenlib\repository\junit\junit\3.8.1\junit-3.8.1.jar;F:\netty-learning\netty-3.7\target\classes;D:\mavenlib\repository\org\javassist\javassist\3.18.1-GA\javassist-3.18.1-GA.jar;D:\mavenlib\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\mavenlib\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\mavenlib\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\mavenlib\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;D:\mavenlib\repository\org\springframework\spring-context\4.3.0.RELEASE\spring-context-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-aop\4.3.0.RELEASE\spring-aop-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-beans\4.3.0.RELEASE\spring-beans-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-core\4.3.0.RELEASE\spring-core-4.3.0.RELEASE.jar;D:\mavenlib\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mavenlib\repository\org\springframework\spring-expression\4.3.0.RELEASE\spring-expression-4.3.0.RELEASE.jar
+[INFO][2017-06-23 11:25:05,692][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;D:\gradle\gradle-3.4.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;D:\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;E:\tools\eclipse;;.
+[INFO][2017-06-23 11:25:05,696][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=C:\Users\YANGZH~1\AppData\Local\Temp\
+[INFO][2017-06-23 11:25:05,697][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2017-06-23 11:25:05,698][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Windows 7
+[INFO][2017-06-23 11:25:05,699][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2017-06-23 11:25:05,700][org.apache.zookeeper.ZooKeeper]Client environment:os.version=6.1
+[INFO][2017-06-23 11:25:05,701][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yangzhigang
+[INFO][2017-06-23 11:25:05,702][org.apache.zookeeper.ZooKeeper]Client environment:user.home=C:\Users\yangzhigang
+[INFO][2017-06-23 11:25:05,703][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=E:\github\netty-study
+[INFO][2017-06-23 11:25:05,709][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=10000 watcher=org.I0Itec.zkclient.ZkClient@20ce78ec
+[INFO][2017-06-23 11:25:05,803][org.I0Itec.zkclient.ZkClient]Waiting for keeper state SyncConnected
+[INFO][2017-06-23 11:25:06,030][org.I0Itec.zkclient.ZkClient]zookeeper state changed (SyncConnected)
+[INFO][2017-06-23 11:25:29,590][org.I0Itec.zkclient.ZkEventThread]Starting ZkClient event thread.
+[INFO][2017-06-23 11:25:29,598][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:host.name=7f-yangzhig.globale.com
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_51
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:java.home=C:\Program Files\Java\jdk1.8.0_51\jre
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=E:\github\netty-study\target\classes;D:\mavenlib\repository\io\netty\netty-common\4.1.9.Final\netty-common-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-buffer\4.1.9.Final\netty-buffer-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-codec\4.1.9.Final\netty-codec-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-handler\4.1.9.Final\netty-handler-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport\4.1.9.Final\netty-transport-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-resolver\4.1.9.Final\netty-resolver-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport-native-epoll\4.1.9.Final\netty-transport-native-epoll-4.1.9.Final.jar;D:\mavenlib\repository\com\alibaba\fastjson\1.2.32\fastjson-1.2.32.jar;D:\mavenlib\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar;D:\mavenlib\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\mavenlib\repository\junit\junit\3.8.1\junit-3.8.1.jar;F:\netty-learning\netty-3.7\target\classes;D:\mavenlib\repository\org\javassist\javassist\3.18.1-GA\javassist-3.18.1-GA.jar;D:\mavenlib\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\mavenlib\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\mavenlib\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\mavenlib\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;D:\mavenlib\repository\org\springframework\spring-context\4.3.0.RELEASE\spring-context-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-aop\4.3.0.RELEASE\spring-aop-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-beans\4.3.0.RELEASE\spring-beans-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-core\4.3.0.RELEASE\spring-core-4.3.0.RELEASE.jar;D:\mavenlib\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mavenlib\repository\org\springframework\spring-expression\4.3.0.RELEASE\spring-expression-4.3.0.RELEASE.jar
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;D:\gradle\gradle-3.4.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;D:\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;E:\tools\eclipse;;.
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=C:\Users\YANGZH~1\AppData\Local\Temp\
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Windows 7
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:os.version=6.1
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yangzhigang
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:user.home=C:\Users\yangzhigang
+[INFO][2017-06-23 11:25:29,599][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=E:\github\netty-study
+[INFO][2017-06-23 11:25:29,600][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=10000 watcher=org.I0Itec.zkclient.ZkClient@6c49835d
+[INFO][2017-06-23 11:25:29,671][org.I0Itec.zkclient.ZkClient]Waiting for keeper state SyncConnected
+[INFO][2017-06-23 11:25:29,746][org.I0Itec.zkclient.ZkClient]zookeeper state changed (SyncConnected)
+[INFO][2017-06-23 11:26:40,461][org.I0Itec.zkclient.ZkEventThread]Starting ZkClient event thread.
+[INFO][2017-06-23 11:26:40,469][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:host.name=7f-yangzhig.globale.com
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_51
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:java.home=C:\Program Files\Java\jdk1.8.0_51\jre
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=E:\github\netty-study\target\classes;D:\mavenlib\repository\io\netty\netty-common\4.1.9.Final\netty-common-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-buffer\4.1.9.Final\netty-buffer-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-codec\4.1.9.Final\netty-codec-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-handler\4.1.9.Final\netty-handler-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport\4.1.9.Final\netty-transport-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-resolver\4.1.9.Final\netty-resolver-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport-native-epoll\4.1.9.Final\netty-transport-native-epoll-4.1.9.Final.jar;D:\mavenlib\repository\com\alibaba\fastjson\1.2.32\fastjson-1.2.32.jar;D:\mavenlib\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar;D:\mavenlib\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\mavenlib\repository\junit\junit\3.8.1\junit-3.8.1.jar;F:\netty-learning\netty-3.7\target\classes;D:\mavenlib\repository\org\javassist\javassist\3.18.1-GA\javassist-3.18.1-GA.jar;D:\mavenlib\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\mavenlib\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\mavenlib\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\mavenlib\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;D:\mavenlib\repository\org\springframework\spring-context\4.3.0.RELEASE\spring-context-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-aop\4.3.0.RELEASE\spring-aop-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-beans\4.3.0.RELEASE\spring-beans-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-core\4.3.0.RELEASE\spring-core-4.3.0.RELEASE.jar;D:\mavenlib\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mavenlib\repository\org\springframework\spring-expression\4.3.0.RELEASE\spring-expression-4.3.0.RELEASE.jar
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;D:\gradle\gradle-3.4.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;D:\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;E:\tools\eclipse;;.
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=C:\Users\YANGZH~1\AppData\Local\Temp\
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Windows 7
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:os.version=6.1
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yangzhigang
+[INFO][2017-06-23 11:26:40,470][org.apache.zookeeper.ZooKeeper]Client environment:user.home=C:\Users\yangzhigang
+[INFO][2017-06-23 11:26:40,471][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=E:\github\netty-study
+[INFO][2017-06-23 11:26:40,471][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=10000 watcher=org.I0Itec.zkclient.ZkClient@6c49835d
+[INFO][2017-06-23 11:26:40,538][org.I0Itec.zkclient.ZkClient]Waiting for keeper state SyncConnected
+[INFO][2017-06-23 11:26:40,629][org.I0Itec.zkclient.ZkClient]zookeeper state changed (SyncConnected)
+[INFO][2017-06-23 11:27:10,341][io.netty.handler.logging.LoggingHandler][id: 0x909a96ab, L:/10.33.22.121:20000 - R:/10.33.22.121:53006] REGISTERED
+[INFO][2017-06-23 11:27:10,341][io.netty.handler.logging.LoggingHandler][id: 0x909a96ab, L:/10.33.22.121:20000 - R:/10.33.22.121:53006] ACTIVE
+[INFO][2017-06-23 11:27:10,342][com.alex.st0.handler.BizServerHandler]客户端链路建立成功
+[INFO][2017-06-23 11:28:33,310][org.I0Itec.zkclient.ZkEventThread]Starting ZkClient event thread.
+[INFO][2017-06-23 11:28:33,316][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:host.name=7f-yangzhig.globale.com
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_51
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:java.home=C:\Program Files\Java\jdk1.8.0_51\jre
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=E:\github\netty-study\target\classes;D:\mavenlib\repository\io\netty\netty-common\4.1.9.Final\netty-common-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-buffer\4.1.9.Final\netty-buffer-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-codec\4.1.9.Final\netty-codec-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-handler\4.1.9.Final\netty-handler-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport\4.1.9.Final\netty-transport-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-resolver\4.1.9.Final\netty-resolver-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport-native-epoll\4.1.9.Final\netty-transport-native-epoll-4.1.9.Final.jar;D:\mavenlib\repository\com\alibaba\fastjson\1.2.32\fastjson-1.2.32.jar;D:\mavenlib\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar;D:\mavenlib\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\mavenlib\repository\junit\junit\3.8.1\junit-3.8.1.jar;F:\netty-learning\netty-3.7\target\classes;D:\mavenlib\repository\org\javassist\javassist\3.18.1-GA\javassist-3.18.1-GA.jar;D:\mavenlib\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\mavenlib\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\mavenlib\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\mavenlib\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;D:\mavenlib\repository\org\springframework\spring-context\4.3.0.RELEASE\spring-context-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-aop\4.3.0.RELEASE\spring-aop-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-beans\4.3.0.RELEASE\spring-beans-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-core\4.3.0.RELEASE\spring-core-4.3.0.RELEASE.jar;D:\mavenlib\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mavenlib\repository\org\springframework\spring-expression\4.3.0.RELEASE\spring-expression-4.3.0.RELEASE.jar
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;D:\gradle\gradle-3.4.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;D:\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;E:\tools\eclipse;;.
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=C:\Users\YANGZH~1\AppData\Local\Temp\
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Windows 7
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:os.version=6.1
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yangzhigang
+[INFO][2017-06-23 11:28:33,317][org.apache.zookeeper.ZooKeeper]Client environment:user.home=C:\Users\yangzhigang
+[INFO][2017-06-23 11:28:33,318][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=E:\github\netty-study
+[INFO][2017-06-23 11:28:33,318][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=10000 watcher=org.I0Itec.zkclient.ZkClient@20ce78ec
+[INFO][2017-06-23 11:28:33,327][org.I0Itec.zkclient.ZkClient]Waiting for keeper state SyncConnected
+[INFO][2017-06-23 11:28:33,376][org.I0Itec.zkclient.ZkClient]zookeeper state changed (SyncConnected)
+[INFO][2017-06-23 11:50:12,004][org.I0Itec.zkclient.ZkEventThread]Starting ZkClient event thread.
+[INFO][2017-06-23 11:50:12,009][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2017-06-23 11:50:12,009][org.apache.zookeeper.ZooKeeper]Client environment:host.name=7f-yangzhig.globale.com
+[INFO][2017-06-23 11:50:12,009][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_51
+[INFO][2017-06-23 11:50:12,009][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2017-06-23 11:50:12,010][org.apache.zookeeper.ZooKeeper]Client environment:java.home=C:\Program Files\Java\jdk1.8.0_51\jre
+[INFO][2017-06-23 11:50:12,010][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=E:\github\netty-study\target\classes;D:\mavenlib\repository\io\netty\netty-common\4.1.9.Final\netty-common-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-buffer\4.1.9.Final\netty-buffer-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-codec\4.1.9.Final\netty-codec-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-handler\4.1.9.Final\netty-handler-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport\4.1.9.Final\netty-transport-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-resolver\4.1.9.Final\netty-resolver-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport-native-epoll\4.1.9.Final\netty-transport-native-epoll-4.1.9.Final.jar;D:\mavenlib\repository\com\alibaba\fastjson\1.2.32\fastjson-1.2.32.jar;D:\mavenlib\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar;D:\mavenlib\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\mavenlib\repository\junit\junit\3.8.1\junit-3.8.1.jar;F:\netty-learning\netty-3.7\target\classes;D:\mavenlib\repository\org\javassist\javassist\3.18.1-GA\javassist-3.18.1-GA.jar;D:\mavenlib\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\mavenlib\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\mavenlib\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\mavenlib\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;D:\mavenlib\repository\org\springframework\spring-context\4.3.0.RELEASE\spring-context-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-aop\4.3.0.RELEASE\spring-aop-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-beans\4.3.0.RELEASE\spring-beans-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-core\4.3.0.RELEASE\spring-core-4.3.0.RELEASE.jar;D:\mavenlib\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mavenlib\repository\org\springframework\spring-expression\4.3.0.RELEASE\spring-expression-4.3.0.RELEASE.jar
+[INFO][2017-06-23 11:50:12,010][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;D:\gradle\gradle-3.4.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;D:\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;E:\tools\eclipse;;.
+[INFO][2017-06-23 11:50:12,010][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=C:\Users\YANGZH~1\AppData\Local\Temp\
+[INFO][2017-06-23 11:50:12,010][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2017-06-23 11:50:12,010][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Windows 7
+[INFO][2017-06-23 11:50:12,010][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2017-06-23 11:50:12,010][org.apache.zookeeper.ZooKeeper]Client environment:os.version=6.1
+[INFO][2017-06-23 11:50:12,010][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yangzhigang
+[INFO][2017-06-23 11:50:12,010][org.apache.zookeeper.ZooKeeper]Client environment:user.home=C:\Users\yangzhigang
+[INFO][2017-06-23 11:50:12,010][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=E:\github\netty-study
+[INFO][2017-06-23 11:50:12,011][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=10000 watcher=org.I0Itec.zkclient.ZkClient@20ce78ec
+[INFO][2017-06-23 11:50:12,023][org.I0Itec.zkclient.ZkClient]Waiting for keeper state SyncConnected
+[INFO][2017-06-23 11:50:12,182][org.I0Itec.zkclient.ZkClient]zookeeper state changed (SyncConnected)
+[INFO][2017-06-23 11:50:25,502][org.I0Itec.zkclient.ZkEventThread]Starting ZkClient event thread.
+[INFO][2017-06-23 11:50:25,506][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2017-06-23 11:50:25,506][org.apache.zookeeper.ZooKeeper]Client environment:host.name=7f-yangzhig.globale.com
+[INFO][2017-06-23 11:50:25,506][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_51
+[INFO][2017-06-23 11:50:25,506][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2017-06-23 11:50:25,506][org.apache.zookeeper.ZooKeeper]Client environment:java.home=C:\Program Files\Java\jdk1.8.0_51\jre
+[INFO][2017-06-23 11:50:25,507][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=E:\github\netty-study\target\classes;D:\mavenlib\repository\io\netty\netty-common\4.1.9.Final\netty-common-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-buffer\4.1.9.Final\netty-buffer-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-codec\4.1.9.Final\netty-codec-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-handler\4.1.9.Final\netty-handler-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport\4.1.9.Final\netty-transport-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-resolver\4.1.9.Final\netty-resolver-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport-native-epoll\4.1.9.Final\netty-transport-native-epoll-4.1.9.Final.jar;D:\mavenlib\repository\com\alibaba\fastjson\1.2.32\fastjson-1.2.32.jar;D:\mavenlib\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar;D:\mavenlib\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\mavenlib\repository\junit\junit\3.8.1\junit-3.8.1.jar;F:\netty-learning\netty-3.7\target\classes;D:\mavenlib\repository\org\javassist\javassist\3.18.1-GA\javassist-3.18.1-GA.jar;D:\mavenlib\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\mavenlib\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\mavenlib\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\mavenlib\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;D:\mavenlib\repository\org\springframework\spring-context\4.3.0.RELEASE\spring-context-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-aop\4.3.0.RELEASE\spring-aop-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-beans\4.3.0.RELEASE\spring-beans-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-core\4.3.0.RELEASE\spring-core-4.3.0.RELEASE.jar;D:\mavenlib\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mavenlib\repository\org\springframework\spring-expression\4.3.0.RELEASE\spring-expression-4.3.0.RELEASE.jar
+[INFO][2017-06-23 11:50:25,507][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;D:\gradle\gradle-3.4.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;D:\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;E:\tools\eclipse;;.
+[INFO][2017-06-23 11:50:25,507][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=C:\Users\YANGZH~1\AppData\Local\Temp\
+[INFO][2017-06-23 11:50:25,507][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2017-06-23 11:50:25,507][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Windows 7
+[INFO][2017-06-23 11:50:25,507][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2017-06-23 11:50:25,507][org.apache.zookeeper.ZooKeeper]Client environment:os.version=6.1
+[INFO][2017-06-23 11:50:25,507][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yangzhigang
+[INFO][2017-06-23 11:50:25,507][org.apache.zookeeper.ZooKeeper]Client environment:user.home=C:\Users\yangzhigang
+[INFO][2017-06-23 11:50:25,507][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=E:\github\netty-study
+[INFO][2017-06-23 11:50:25,508][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=10000 watcher=org.I0Itec.zkclient.ZkClient@2f686d1f
+[INFO][2017-06-23 11:50:25,518][org.I0Itec.zkclient.ZkClient]Waiting for keeper state SyncConnected
+[INFO][2017-06-23 11:50:25,570][org.I0Itec.zkclient.ZkClient]zookeeper state changed (SyncConnected)
+[INFO][2017-06-23 11:51:17,059][org.I0Itec.zkclient.ZkEventThread]Starting ZkClient event thread.
+[INFO][2017-06-23 11:51:17,075][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2017-06-23 11:51:17,075][org.apache.zookeeper.ZooKeeper]Client environment:host.name=7f-yangzhig.globale.com
+[INFO][2017-06-23 11:51:17,075][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_51
+[INFO][2017-06-23 11:51:17,076][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2017-06-23 11:51:17,076][org.apache.zookeeper.ZooKeeper]Client environment:java.home=C:\Program Files\Java\jdk1.8.0_51\jre
+[INFO][2017-06-23 11:51:17,076][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=E:\github\netty-study\target\classes;D:\mavenlib\repository\io\netty\netty-common\4.1.9.Final\netty-common-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-buffer\4.1.9.Final\netty-buffer-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-codec\4.1.9.Final\netty-codec-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-handler\4.1.9.Final\netty-handler-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport\4.1.9.Final\netty-transport-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-resolver\4.1.9.Final\netty-resolver-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport-native-epoll\4.1.9.Final\netty-transport-native-epoll-4.1.9.Final.jar;D:\mavenlib\repository\com\alibaba\fastjson\1.2.32\fastjson-1.2.32.jar;D:\mavenlib\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar;D:\mavenlib\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\mavenlib\repository\junit\junit\3.8.1\junit-3.8.1.jar;F:\netty-learning\netty-3.7\target\classes;D:\mavenlib\repository\org\javassist\javassist\3.18.1-GA\javassist-3.18.1-GA.jar;D:\mavenlib\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\mavenlib\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\mavenlib\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\mavenlib\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;D:\mavenlib\repository\org\springframework\spring-context\4.3.0.RELEASE\spring-context-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-aop\4.3.0.RELEASE\spring-aop-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-beans\4.3.0.RELEASE\spring-beans-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-core\4.3.0.RELEASE\spring-core-4.3.0.RELEASE.jar;D:\mavenlib\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mavenlib\repository\org\springframework\spring-expression\4.3.0.RELEASE\spring-expression-4.3.0.RELEASE.jar
+[INFO][2017-06-23 11:51:17,076][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;D:\gradle\gradle-3.4.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;D:\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;E:\tools\eclipse;;.
+[INFO][2017-06-23 11:51:17,077][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=C:\Users\YANGZH~1\AppData\Local\Temp\
+[INFO][2017-06-23 11:51:17,077][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2017-06-23 11:51:17,077][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Windows 7
+[INFO][2017-06-23 11:51:17,077][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2017-06-23 11:51:17,077][org.apache.zookeeper.ZooKeeper]Client environment:os.version=6.1
+[INFO][2017-06-23 11:51:17,078][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yangzhigang
+[INFO][2017-06-23 11:51:17,078][org.apache.zookeeper.ZooKeeper]Client environment:user.home=C:\Users\yangzhigang
+[INFO][2017-06-23 11:51:17,078][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=E:\github\netty-study
+[INFO][2017-06-23 11:51:17,080][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=10000 watcher=org.I0Itec.zkclient.ZkClient@6c49835d
+[INFO][2017-06-23 11:51:17,223][org.I0Itec.zkclient.ZkClient]Waiting for keeper state SyncConnected
+[INFO][2017-06-23 11:51:17,373][org.I0Itec.zkclient.ZkClient]zookeeper state changed (SyncConnected)
+[INFO][2017-06-23 11:52:08,837][org.I0Itec.zkclient.ZkEventThread]Starting ZkClient event thread.
+[INFO][2017-06-23 11:52:08,841][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:host.name=7f-yangzhig.globale.com
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_51
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:java.home=C:\Program Files\Java\jdk1.8.0_51\jre
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=E:\github\netty-study\target\classes;D:\mavenlib\repository\io\netty\netty-common\4.1.9.Final\netty-common-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-buffer\4.1.9.Final\netty-buffer-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-codec\4.1.9.Final\netty-codec-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-handler\4.1.9.Final\netty-handler-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport\4.1.9.Final\netty-transport-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-resolver\4.1.9.Final\netty-resolver-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport-native-epoll\4.1.9.Final\netty-transport-native-epoll-4.1.9.Final.jar;D:\mavenlib\repository\com\alibaba\fastjson\1.2.32\fastjson-1.2.32.jar;D:\mavenlib\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar;D:\mavenlib\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\mavenlib\repository\junit\junit\3.8.1\junit-3.8.1.jar;F:\netty-learning\netty-3.7\target\classes;D:\mavenlib\repository\org\javassist\javassist\3.18.1-GA\javassist-3.18.1-GA.jar;D:\mavenlib\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\mavenlib\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\mavenlib\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\mavenlib\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;D:\mavenlib\repository\org\springframework\spring-context\4.3.0.RELEASE\spring-context-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-aop\4.3.0.RELEASE\spring-aop-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-beans\4.3.0.RELEASE\spring-beans-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-core\4.3.0.RELEASE\spring-core-4.3.0.RELEASE.jar;D:\mavenlib\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mavenlib\repository\org\springframework\spring-expression\4.3.0.RELEASE\spring-expression-4.3.0.RELEASE.jar
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;D:\gradle\gradle-3.4.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;D:\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;E:\tools\eclipse;;.
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=C:\Users\YANGZH~1\AppData\Local\Temp\
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Windows 7
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:os.version=6.1
+[INFO][2017-06-23 11:52:08,842][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yangzhigang
+[INFO][2017-06-23 11:52:08,843][org.apache.zookeeper.ZooKeeper]Client environment:user.home=C:\Users\yangzhigang
+[INFO][2017-06-23 11:52:08,843][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=E:\github\netty-study
+[INFO][2017-06-23 11:52:08,843][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=10000 watcher=org.I0Itec.zkclient.ZkClient@2f686d1f
+[INFO][2017-06-23 11:52:08,852][org.I0Itec.zkclient.ZkClient]Waiting for keeper state SyncConnected
+[INFO][2017-06-23 11:52:08,928][org.I0Itec.zkclient.ZkClient]zookeeper state changed (SyncConnected)
+[INFO][2017-06-23 11:52:29,597][org.I0Itec.zkclient.ZkEventThread]Starting ZkClient event thread.
+[INFO][2017-06-23 11:52:29,615][org.apache.zookeeper.ZooKeeper]Client environment:zookeeper.version=3.4.6-1569965, built on 02/20/2014 09:09 GMT
+[INFO][2017-06-23 11:52:29,616][org.apache.zookeeper.ZooKeeper]Client environment:host.name=7f-yangzhig.globale.com
+[INFO][2017-06-23 11:52:29,616][org.apache.zookeeper.ZooKeeper]Client environment:java.version=1.8.0_51
+[INFO][2017-06-23 11:52:29,616][org.apache.zookeeper.ZooKeeper]Client environment:java.vendor=Oracle Corporation
+[INFO][2017-06-23 11:52:29,616][org.apache.zookeeper.ZooKeeper]Client environment:java.home=C:\Program Files\Java\jdk1.8.0_51\jre
+[INFO][2017-06-23 11:52:29,617][org.apache.zookeeper.ZooKeeper]Client environment:java.class.path=E:\github\netty-study\target\classes;D:\mavenlib\repository\io\netty\netty-common\4.1.9.Final\netty-common-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-buffer\4.1.9.Final\netty-buffer-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-codec\4.1.9.Final\netty-codec-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-handler\4.1.9.Final\netty-handler-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport\4.1.9.Final\netty-transport-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-resolver\4.1.9.Final\netty-resolver-4.1.9.Final.jar;D:\mavenlib\repository\io\netty\netty-transport-native-epoll\4.1.9.Final\netty-transport-native-epoll-4.1.9.Final.jar;D:\mavenlib\repository\com\alibaba\fastjson\1.2.32\fastjson-1.2.32.jar;D:\mavenlib\repository\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar;D:\mavenlib\repository\jline\jline\0.9.94\jline-0.9.94.jar;D:\mavenlib\repository\junit\junit\3.8.1\junit-3.8.1.jar;F:\netty-learning\netty-3.7\target\classes;D:\mavenlib\repository\org\javassist\javassist\3.18.1-GA\javassist-3.18.1-GA.jar;D:\mavenlib\repository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\mavenlib\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;D:\mavenlib\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\mavenlib\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;D:\mavenlib\repository\org\springframework\spring-context\4.3.0.RELEASE\spring-context-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-aop\4.3.0.RELEASE\spring-aop-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-beans\4.3.0.RELEASE\spring-beans-4.3.0.RELEASE.jar;D:\mavenlib\repository\org\springframework\spring-core\4.3.0.RELEASE\spring-core-4.3.0.RELEASE.jar;D:\mavenlib\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mavenlib\repository\org\springframework\spring-expression\4.3.0.RELEASE\spring-expression-4.3.0.RELEASE.jar
+[INFO][2017-06-23 11:52:29,617][org.apache.zookeeper.ZooKeeper]Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Java\jdk1.8.0_51\jre\bin;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;D:\gradle\gradle-3.4.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;D:\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;E:\tools\eclipse;;.
+[INFO][2017-06-23 11:52:29,617][org.apache.zookeeper.ZooKeeper]Client environment:java.io.tmpdir=C:\Users\YANGZH~1\AppData\Local\Temp\
+[INFO][2017-06-23 11:52:29,618][org.apache.zookeeper.ZooKeeper]Client environment:java.compiler=<NA>
+[INFO][2017-06-23 11:52:29,618][org.apache.zookeeper.ZooKeeper]Client environment:os.name=Windows 7
+[INFO][2017-06-23 11:52:29,618][org.apache.zookeeper.ZooKeeper]Client environment:os.arch=amd64
+[INFO][2017-06-23 11:52:29,618][org.apache.zookeeper.ZooKeeper]Client environment:os.version=6.1
+[INFO][2017-06-23 11:52:29,618][org.apache.zookeeper.ZooKeeper]Client environment:user.name=yangzhigang
+[INFO][2017-06-23 11:52:29,619][org.apache.zookeeper.ZooKeeper]Client environment:user.home=C:\Users\yangzhigang
+[INFO][2017-06-23 11:52:29,619][org.apache.zookeeper.ZooKeeper]Client environment:user.dir=E:\github\netty-study
+[INFO][2017-06-23 11:52:29,621][org.apache.zookeeper.ZooKeeper]Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=10000 watcher=org.I0Itec.zkclient.ZkClient@5e853265
+[INFO][2017-06-23 11:52:29,766][org.I0Itec.zkclient.ZkClient]Waiting for keeper state SyncConnected
+[INFO][2017-06-23 11:52:29,885][org.I0Itec.zkclient.ZkClient]zookeeper state changed (SyncConnected)
+[INFO][2017-06-23 11:53:23,770][io.netty.handler.logging.LoggingHandler][id: 0xfd2e085b, L:/10.33.22.121:20000 - R:/10.33.22.121:53457] REGISTERED
+[INFO][2017-06-23 11:53:23,770][io.netty.handler.logging.LoggingHandler][id: 0xfd2e085b, L:/10.33.22.121:20000 - R:/10.33.22.121:53457] ACTIVE
+[INFO][2017-06-23 11:53:23,770][com.alex.st0.handler.BizServerHandler]客户端链路建立成功
+[INFO][2017-06-23 11:53:32,866][com.alex.st0.transport.ConnectionWatchdog]已连接 [id: 0x1a077c9c, L:/10.33.22.121:53457 - R:/10.33.22.121:20000].
+[INFO][2017-06-23 11:53:33,753][io.netty.handler.logging.LoggingHandler][id: 0xfd2e085b, L:/10.33.22.121:20000 - R:/10.33.22.121:53457] CLOSE
+[INFO][2017-06-23 11:53:33,754][io.netty.handler.logging.LoggingHandler][id: 0xfd2e085b, L:/10.33.22.121:20000 ! R:/10.33.22.121:53457] INACTIVE
+[INFO][2017-06-23 11:53:33,756][io.netty.handler.logging.LoggingHandler][id: 0xfd2e085b, L:/10.33.22.121:20000 ! R:/10.33.22.121:53457] UNREGISTERED
+[INFO][2017-06-23 11:53:36,229][com.alex.st0.handler.BizClientHandler]客户端连接成功
+[WARN][2017-06-23 11:53:55,220][com.alex.st0.transport.ConnectionWatchdog]断开连接 [id: 0x1a077c9c, L:/10.33.22.121:53457 ! R:/10.33.22.121:20000], 地址: 10.33.22.121:20000, 重连: true.
+[INFO][2017-06-23 11:54:00,319][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] REGISTERED
+[INFO][2017-06-23 11:54:00,319][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] ACTIVE
+[INFO][2017-06-23 11:54:00,319][com.alex.st0.handler.BizServerHandler]客户端链路建立成功
+[INFO][2017-06-23 11:54:00,835][com.alex.st0.transport.ConnectionWatchdog]已连接 [id: 0x8471f835, L:/10.33.22.121:53460 - R:/10.33.22.121:20000].
+[INFO][2017-06-23 11:54:00,835][com.alex.st0.handler.BizClientHandler]客户端连接成功
+[WARN][2017-06-23 11:54:00,836][com.alex.st0.transport.ConnectionWatchdog]重连 10.33.22.121:20000, succeed.
+[INFO][2017-06-23 11:54:07,641][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:54:07,641][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:54:14,932][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:54:14,932][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:54:21,108][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:54:21,108][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:54:27,572][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:54:27,572][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:54:33,541][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:54:33,541][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:54:38,542][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:54:38,542][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:54:43,542][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:54:43,542][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:54:48,544][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:54:48,544][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:54:53,544][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:54:53,544][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:54:58,545][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:54:58,545][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:55:03,546][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:55:03,546][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:55:08,547][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:55:08,547][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:55:13,547][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:55:13,548][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:55:18,549][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:55:18,549][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:55:23,549][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:55:23,549][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:55:28,550][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:55:28,550][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:55:33,551][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:55:33,551][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:55:38,552][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:55:38,552][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:55:43,552][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:55:43,552][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:55:48,553][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:55:48,554][com.alex.st0.codec.ProtocolDecoder]心跳包
+[INFO][2017-06-23 11:55:53,554][io.netty.handler.logging.LoggingHandler][id: 0xa9e63651, L:/10.33.22.121:20000 - R:/10.33.22.121:53460] RECEIVED: 5B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 0f 00 00 00 00                                  |.....           |
++--------+-------------------------------------------------+----------------+
+[INFO][2017-06-23 11:55:53,554][com.alex.st0.codec.ProtocolDecoder]心跳包

@@ -14,7 +14,7 @@ public class RegistryService {
 	private ZkClient zkClient = null;
 
 	private RegistryService() {
-		String ZKServers = "172.28.0.45:2181";
+		String ZKServers = "127.0.0.1:2181";
 		zkClient = new ZkClient(ZKServers, 10000, 10000, new SerializableSerializer());
 	}
 
